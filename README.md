@@ -1,2 +1,2 @@
-# ICT-Lab06a-Mina-Talash
-parctice repositroy 
+# ICT-Lab06-Mina-Talash
+Practice repository: This is an ICT assignment
